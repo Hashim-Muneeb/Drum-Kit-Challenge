@@ -1,2 +1,2 @@
 # Drum-Kit-Challenge
-A simple fun Drum kit using HTML, CSS and Javascript
+A simple fun Drum kit Challeng, Made using HTML, CSS and JavaScript
